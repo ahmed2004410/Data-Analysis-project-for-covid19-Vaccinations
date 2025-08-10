@@ -9,9 +9,7 @@ It includes data cleaning, transformation, and visualization using Python and Po
 - **Content**: Daily COVID-19 cases, deaths, vaccination rates, and demographic details.
 - **Format**: CSV files
 - 1-<a herf="https://github.com/ahmed2004410/Data-Analysis-project-for-covid19-Vaccinations/blob/bca11f33d009fa509512e72a0bc9b317aafbf608/table_1.xlsx">Covid Data</a>
-- 2-<a herf="https://github.com/ahmed2004410/Data-Analysis-project-for-covid19-Vaccinations/blob/bca11f33d009fa509512e72a0bc9b317aafbf608/table_2.xlsx">Covid Data</a>
-- 3-<a herf="https://github.com/ahmed2004410/Data-Analysis-project-for-covid19-Vaccinations/blob/bca11f33d009fa509512e72a0bc9b317aafbf608/table_3.xlsx">Covid Data</a>
-- 4-<a herf="https://github.com/ahmed2004410/Data-Analysis-project-for-covid19-Vaccinations/blob/bca11f33d009fa509512e72a0bc9b317aafbf608/table_4.xlsx">Covid Data</a>
+
 بب
 ## 🛠 Tools & Technologies
 - **Python**: Pandas, NumPy, Matplotlib, Seaborn
