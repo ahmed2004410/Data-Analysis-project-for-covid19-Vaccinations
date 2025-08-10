@@ -29,7 +29,3 @@ It includes data cleaning, transformation, and visualization using Python and Po
 - Heatmaps for correlation analysis
 - Geographic maps for vaccination coverage
 
-## 🚀 How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/covid19-vaccination-analysis.git
