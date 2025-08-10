@@ -9,6 +9,9 @@ It includes data cleaning, transformation, and visualization using Python and Po
 - **Content**: Daily COVID-19 cases, deaths, vaccination rates, and demographic details.
 - **Format**: CSV files
 - https://github.com/ahmed2004410/Data-Analysis-project-for-covid19-Vaccinations/blob/bca11f33d009fa509512e72a0bc9b317aafbf608/table_1.xlsx
+- https://github.com/ahmed2004410/Data-Analysis-project-for-covid19-Vaccinations/blob/bca11f33d009fa509512e72a0bc9b317aafbf608/table_2.xlsx
+- https://github.com/ahmed2004410/Data-Analysis-project-for-covid19-Vaccinations/blob/bca11f33d009fa509512e72a0bc9b317aafbf608/table_3.xlsx
+- https://github.com/ahmed2004410/Data-Analysis-project-for-covid19-Vaccinations/blob/bca11f33d009fa509512e72a0bc9b317aafbf608/table_4.xlsx- 
 
 
 ## 🛠 Tools & Technologies
