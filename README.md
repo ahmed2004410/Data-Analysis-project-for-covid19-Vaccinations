@@ -13,11 +13,10 @@ It includes data cleaning, transformation, and visualization using Python and Po
 - https://github.com/ahmed2004410/Data-Analysis-project-for-covid19-Vaccinations/blob/bca11f33d009fa509512e72a0bc9b317aafbf608/table_3.xlsx
 - https://github.com/ahmed2004410/Data-Analysis-project-for-covid19-Vaccinations/blob/bca11f33d009fa509512e72a0bc9b317aafbf608/table_4.xlsx- 
 
-
 ## 🛠 Tools & Technologies
-- **Python**: Pandas, NumPy, Matplotlib, Seaborn
-- **Power BI**: Interactive dashboards and reports
-- **Jupyter Notebook** for EDA and data processing
+- **Excel**: Data cleaning and preliminary analysis
+- **SQL**: Data querying and aggregation
+- **Power BI**: Interactive dashboards and visualizations
 
 ## 📈 Key Analysis
 - COVID-19 daily and cumulative cases trend
