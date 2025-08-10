@@ -8,7 +8,7 @@ It includes data cleaning, transformation, and visualization using Python and Po
 - **Sources**: Public health datasets (e.g., Our World in Data, WHO, or government portals)
 - **Content**: Daily COVID-19 cases, deaths, vaccination rates, and demographic details.
 - **Format**: CSV files
-https://github.com/ahmed2004410/Data-Analysis-project-for-covid19-Vaccinations/blob/bca11f33d009fa509512e72a0bc9b317aafbf608/table_1.xlsx
+- https://github.com/ahmed2004410/Data-Analysis-project-for-covid19-Vaccinations/blob/bca11f33d009fa509512e72a0bc9b317aafbf608/table_1.xlsx
 
 
 ## 🛠 Tools & Technologies
